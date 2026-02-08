@@ -1,1 +1,0 @@
-import{_ as s,E as t,F as c,G as n,H as r}from"./DtX46_31.js";const a={},o={class:"min-h-screen bg-slate-950 text-white"},i={class:"flex min-h-screen items-center justify-center px-4"};function _(e,l){return t(),c("div",o,[n("div",i,[r(e.$slots,"default")])])}const f=s(a,[["render",_]]);export{f as default};
