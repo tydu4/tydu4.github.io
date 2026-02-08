@@ -1,0 +1,1 @@
+.live-super-reaction{align-items:center;animation:live-super-pop 1.6s ease-out forwards;display:flex;justify-content:center;position:relative}@keyframes live-super-pop{0%{filter:blur(6px);opacity:0;transform:scale(.3)}30%{filter:blur(0);opacity:1;transform:scale(1.15)}70%{opacity:1;transform:scale(1)}to{opacity:0;transform:scale(1.4)}}

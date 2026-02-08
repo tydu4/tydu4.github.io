@@ -1,0 +1,1 @@
+import{a as o}from"./CkYB-R1u.js";import{b as t,E as n,a2 as c,R as r,q as m,D as p}from"./RnoPSD3g.js";const d=t({__name:"TableCell",props:{class:{}},setup(e){const s=e,a=m(()=>o("p-4 align-middle",s.class));return(l,i)=>(p(),n("td",{class:r(a.value)},[c(l.$slots,"default")],2))}}),f=Object.assign(d,{__name:"TableCell"});export{f as default};
