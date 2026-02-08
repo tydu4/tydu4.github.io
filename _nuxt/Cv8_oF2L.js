@@ -1,0 +1,1 @@
+const o=r=>!!r&&typeof r=="object"&&!Array.isArray(r),i=r=>{if(!o(r))return null;const e=r.message??r.msg??r.detail;if(typeof e!="string")return null;const t=e.trim();return t||null},c=(r,e)=>{const t=r,n=i(t?.data);if(n)return n;const s=t?.message;return typeof s=="string"&&s.trim()?s.trim():e};export{c as e};

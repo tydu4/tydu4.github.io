@@ -1,0 +1,1 @@
+import{a as o}from"./CkYB-R1u.js";import{c as r,F as n,H as c,N as p,x as l,E as m}from"./BXPseSoj.js";const i=r({__name:"CardDescription",props:{class:{}},setup(s){const e=s,a=l(()=>o("text-sm text-muted-foreground",e.class));return(t,d)=>(m(),n("p",{class:p(a.value)},[c(t.$slots,"default")],2))}}),_=Object.assign(i,{__name:"CardDescription"});export{_ as default};

@@ -1,1 +1,0 @@
-import{a as o,u as i,n}from"./RnoPSD3g.js";const s=t=>["/profile","/wallet","/tickets","/notifications","/organizer"].some(e=>t===e?!0:t.startsWith(`${e}/`)),u=o(t=>{if(!s(t.path))return;if(!i().isFullUser){const e=encodeURIComponent(t.fullPath||t.path);return n(`/login?redirect=${e}`)}});export{u as default};
