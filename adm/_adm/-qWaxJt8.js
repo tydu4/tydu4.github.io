@@ -1,1 +1,0 @@
-import{a as t}from"./CkYB-R1u.js";import{c as r,F as c,H as n,N as l,x as p,E as m}from"./Dmz3ccyX.js";const d=r({__name:"CardFooter",props:{class:{}},setup(s){const e=s,a=p(()=>t("flex items-center p-6 pt-0",e.class));return(o,i)=>(m(),c("div",{class:l(a.value)},[n(o.$slots,"default")],2))}}),_=Object.assign(d,{__name:"CardFooter"});export{_ as default};

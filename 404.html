@@ -32,10 +32,9 @@
     }
     // 3. Иначе это Клиент (корень)
     else {
-      // Для клиента Nuxt сам разберется, если мы вернемся на корень
-      // Но чтобы не было вечного цикла, просто оставляем как есть, 
-      // Nuxt Client загрузится (так как 404.html лежит в корне и подгрузит _nuxt клиента)
-      // и покажет свою 404 страницу.
+      // Client app fallback: redirect to root and preserve the path.
+      var redirect = '/?redirect=' + encodeURIComponent(path + window.location.search);
+      window.location.href = redirect;
     }
   </script>
 </head>
