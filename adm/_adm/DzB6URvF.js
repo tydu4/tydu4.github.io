@@ -1,1 +1,0 @@
-import{a as t}from"./CkYB-R1u.js";import{c,F as l,H as n,N as r,x as d,E as m}from"./BXPseSoj.js";const p=c({__name:"TableBody",props:{class:{}},setup(s){const a=s,e=d(()=>t("[&_tr:last-child]:border-0",a.class));return(o,_)=>(m(),l("tbody",{class:r(e.value)},[n(o.$slots,"default")],2))}}),b=Object.assign(p,{__name:"TableBody"});export{b as default};
