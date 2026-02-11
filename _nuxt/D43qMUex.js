@@ -1,1 +1,0 @@
-import{a as n}from"./CkYB-R1u.js";import{e as o,c,X as r,V as l,w as p,o as m}from"./DMRHOFOR.js";const _=o({__name:"CardContent",props:{class:{}},setup(s){const e=s,a=p(()=>n("p-6 pt-0",e.class));return(t,d)=>(m(),c("div",{class:l(a.value)},[r(t.$slots,"default")],2))}}),f=Object.assign(_,{__name:"CardContent"});export{f as default};

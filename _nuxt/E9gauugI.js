@@ -1,1 +1,0 @@
-import{a as r}from"./CkYB-R1u.js";import{e as t,c as n,X as c,V as d,w as l,o as m}from"./DMRHOFOR.js";const p=t({__name:"Card",props:{class:{}},setup(s){const e=s,a=l(()=>r("rounded-lg border text-card-foreground shadow-soft card-surface",e.class));return(o,u)=>(m(),n("div",{class:d(a.value)},[c(o.$slots,"default")],2))}}),i=Object.assign(p,{__name:"Card"});export{i as default};
