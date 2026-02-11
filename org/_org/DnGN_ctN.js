@@ -1,0 +1,1 @@
+import{a as e,A as t,R as s,z as c}from"./Dz2NiSAM.js";const r=["src","alt"],l=e({__name:"AvatarImage",props:{src:{},alt:{},class:{}},setup(a){return(n,o)=>a.src?(c(),t("img",{key:0,src:a.src,alt:a.alt,class:"aspect-square h-full w-full object-cover"},null,8,r)):s("",!0)}}),u=Object.assign(l,{__name:"AvatarImage"});export{u as default};
