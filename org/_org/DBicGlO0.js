@@ -1,1 +1,0 @@
-import{a as e,B as t,S as s,A as c}from"./Baa31a81.js";const r=["src","alt"],l=e({__name:"AvatarImage",props:{src:{},alt:{},class:{}},setup(a){return(n,o)=>a.src?(c(),t("img",{key:0,src:a.src,alt:a.alt,class:"aspect-square h-full w-full object-cover"},null,8,r)):s("",!0)}}),u=Object.assign(l,{__name:"AvatarImage"});export{u as default};
