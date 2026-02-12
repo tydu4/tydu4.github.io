@@ -1,0 +1,1 @@
+import{a as o}from"./CkYB-R1u.js";import{d as r,c as t,X as n,U as l,g as c,o as d}from"./DnYx5EpP.js";const f=r({__name:"AvatarRoot",props:{class:{}},setup(a){const e=a;return(s,i)=>(d(),t("div",{class:l(c(o)("relative flex h-10 w-10 shrink-0 overflow-hidden rounded-full",e.class))},[n(s.$slots,"default")],2))}}),u=Object.assign(f,{__name:"AvatarRoot"});export{u as default};
