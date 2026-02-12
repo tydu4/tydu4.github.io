@@ -1,1 +1,0 @@
-import{b as a,af as n,C as s,n as o,B as r}from"./reRXLAc6.js";const l=a({__name:"settings",async setup(_){let e,t;return[e,t]=n(()=>o("/settings/profile",{replace:!0})),await e,t(),(c,i)=>(r(),s("div"))}});export{l as default};

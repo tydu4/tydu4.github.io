@@ -1,1 +1,0 @@
-import{b as o,U as r,T as s,R as a,k as c,B as d,t as m}from"./reRXLAc6.js";const l=o({__name:"edit",setup(i){const e=r(),t=m(()=>String(e.params.id||""));return(p,u)=>{const n=c("EventWizardForm");return d(),s(n,{mode:"edit","event-id":a(t)},null,8,["event-id"])}}});export{l as default};
