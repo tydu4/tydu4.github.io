@@ -1,0 +1,1 @@
+import{d as r,c,O as t,D as n,g as d,o as l,P as p}from"./BO0_OeXi.js";const u=r({__name:"Card",props:{class:{}},setup(s){const a=s,e=d(()=>p("rounded-lg border text-card-foreground shadow-soft card-surface",a.class));return(o,m)=>(l(),c("div",{class:n(e.value)},[t(o.$slots,"default")],2))}}),_=Object.assign(u,{__name:"Card"});export{_ as default};

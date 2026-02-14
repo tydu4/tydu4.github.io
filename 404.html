@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // SPA Fallback for GitHub Pages hosting multiple Nuxt apps
+    var path = window.location.pathname;
+    
+    // 1. Если путь начинается с /adm -> перенаправляем на index.html админки
+    if (path.startsWith('/adm')) {
+      // Сохраняем путь для роутера админки (если нужно)
+      // Но для SSG (generate) обычно достаточно просто вернуть правильный index.html
+      // Однако GitHub Pages всегда отдает 404.html из корня.
+      
+      // Трюк: подменяем историю, чтобы Nuxt подхватил
+      var segment = path.replace('/adm', ''); 
+      if (segment === '') segment = '/';
+      
+      // Редирект в папку админки, сохраняя хеш/search
+      // sessionStorage можно использовать для передачи точного пути, 
+      // но Nuxt generate создает реальные папки (например /adm/users/index.html).
+      
+      // Если файл существует (generate создает папки), браузер его найдет.
+      // Если мы здесь, значит файла нет (динамический роут).
+      // Редиректим на корень админки с параметром redirect
+      window.location.href = '/adm/?redirect=' + encodeURIComponent(path + window.location.search);
+    } 
+    // 2. Если путь начинается с /org -> перенаправляем на index.html органайзера
+    else if (path.startsWith('/creator') || path.startsWith('/org')) {
+      var creatorPath = path.startsWith('/org') ? path.replace('/org', '/creator') : path;
+      window.location.href = '/creator/?redirect=' + encodeURIComponent(creatorPath + window.location.search);
+    }
+    // 3. Иначе это Клиент (корень)
+    else {
+      // Client app fallback: redirect to root and preserve the path.
+      var redirect = '/?redirect=' + encodeURIComponent(path + window.location.search);
+      window.location.href = redirect;
+    }
+  </script>
+</head>
+<body>
+  Redirecting...
+</body>
+</html>
