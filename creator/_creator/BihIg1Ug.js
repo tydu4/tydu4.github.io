@@ -1,1 +1,0 @@
-import{a as r}from"./CkYB-R1u.js";import{b as t,C as c,E as n,X as d,t as l,B as m}from"./D9Gj93nn.js";const p=t({__name:"Card",props:{class:{}},setup(s){const a=s,e=l(()=>r("rounded-lg border text-card-foreground shadow-soft card-surface",a.class));return(o,u)=>(m(),c("div",{class:d(e.value)},[n(o.$slots,"default")],2))}}),_=Object.assign(p,{__name:"Card"});export{_ as default};

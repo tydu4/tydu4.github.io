@@ -1,0 +1,1 @@
+import{b as n,a0 as s,a3 as r,n as o}from"./CKBAJM5x.js";const u=n({__name:"index",async setup(_){let e,t;const a=s();return[e,t]=r(()=>o({path:"/checkin",query:{eventId:String(a.params.id||"")}})),await e,t(),(c,i)=>null}});export{u as default};

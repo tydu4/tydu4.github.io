@@ -1,0 +1,1 @@
+import{a as r}from"./CkYB-R1u.js";import{f as c,G as t,I as n,R as l,y as p,F as d}from"./Cu9pBwV9.js";const m=c({__name:"CardHeader",props:{class:{}},setup(e){const s=e,a=p(()=>r("flex flex-col space-y-1.5 p-6",s.class));return(o,f)=>(d(),t("div",{class:l(a.value)},[n(o.$slots,"default")],2))}}),_=Object.assign(m,{__name:"CardHeader"});export{_ as default};

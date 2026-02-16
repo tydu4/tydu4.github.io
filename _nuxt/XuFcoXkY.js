@@ -1,0 +1,1 @@
+import{d as o,c as t,s as n,G as r,u as l,o as c,H as d}from"./D4tOOpea.js";const f=o({__name:"AvatarRoot",props:{class:{}},setup(s){const a=s;return(e,i)=>(c(),t("div",{class:r(l(d)("relative flex h-10 w-10 shrink-0 overflow-hidden rounded-full",a.class))},[n(e.$slots,"default")],2))}}),u=Object.assign(f,{__name:"AvatarRoot"});export{u as default};

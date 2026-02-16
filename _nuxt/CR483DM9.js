@@ -1,0 +1,1 @@
+import{d as t,c as o,s as c,G as r,j as l,o as p,H as _}from"./D4tOOpea.js";const m=t({__name:"CardContent",props:{class:{}},setup(s){const e=s,a=l(()=>_("p-6 pt-0",e.class));return(n,d)=>(p(),o("div",{class:r(a.value)},[c(n.$slots,"default")],2))}}),i=Object.assign(m,{__name:"CardContent"});export{i as default};

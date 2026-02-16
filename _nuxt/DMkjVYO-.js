@@ -1,1 +1,0 @@
-import{d as t,c as r,O as c,D as n,g as l,o as d,P as p}from"./BO0_OeXi.js";const m=t({__name:"TableHeader",props:{class:{}},setup(e){const s=e,a=l(()=>p("[&_tr]:border-b",s.class));return(o,_)=>(d(),r("thead",{class:n(a.value)},[c(o.$slots,"default")],2))}}),b=Object.assign(m,{__name:"TableHeader"});export{b as default};

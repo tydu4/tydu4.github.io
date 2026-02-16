@@ -1,1 +1,0 @@
-import{d as l,c as t,O as n,D as c,u as r,o,P as u}from"./BO0_OeXi.js";const f=l({__name:"AvatarFallback",props:{class:{}},setup(a){const e=a;return(s,m)=>(o(),t("div",{class:c(r(u)("flex h-full w-full items-center justify-center rounded-full bg-muted",e.class))},[n(s.$slots,"default")],2))}}),p=Object.assign(f,{__name:"AvatarFallback"});export{p as default};
