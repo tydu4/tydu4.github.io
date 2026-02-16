@@ -1,1 +1,0 @@
-import{d as o,c as n,s as c,G as r,j as l,o as p,H as m}from"./D4tOOpea.js";const _=o({__name:"CardDescription",props:{class:{}},setup(s){const e=s,t=l(()=>m("text-sm text-muted-foreground",e.class));return(a,d)=>(p(),n("p",{class:r(t.value)},[c(a.$slots,"default")],2))}}),i=Object.assign(_,{__name:"CardDescription"});export{i as default};

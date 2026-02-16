@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{o as s,c as r,s as n}from"./BvmsJYLR.js";const o={},a={class:"min-h-screen bg-transparent text-inherit antialiased"};function c(e,i){return s(),r("div",a,[n(e.$slots,"default")])}const d=t(o,[["render",c]]);export{d as default};

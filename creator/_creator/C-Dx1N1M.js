@@ -1,0 +1,1 @@
+import{b as a,a3 as n,C as s,n as o,B as r}from"./Ca6rub8f.js";const l=a({__name:"index",async setup(_){let e,t;return[e,t]=n(()=>o("/settings/profile",{replace:!0})),await e,t(),(c,i)=>(r(),s("div"))}});export{l as default};

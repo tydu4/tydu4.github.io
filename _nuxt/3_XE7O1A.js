@@ -1,1 +1,0 @@
-import{d as o,x as s,y as r,q as n}from"./D4tOOpea.js";const u=o({__name:"index",async setup(_){let e,t;const a=s();return[e,t]=r(()=>n({path:"/discovery/catalog",query:a.query},{replace:!0})),await e,t(),()=>{}}});export{u as default};

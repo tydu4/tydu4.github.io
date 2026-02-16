@@ -1,1 +1,0 @@
-import{_ as s,B as t,C as c,E as n}from"./CKBAJM5x.js";const o={},r={class:"min-h-screen"};function a(e,_){return t(),c("div",r,[n(e.$slots,"default")])}const d=s(o,[["render",a]]);export{d as default};

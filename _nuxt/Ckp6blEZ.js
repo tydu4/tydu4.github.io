@@ -1,1 +1,0 @@
-import{d as n,c as o,s as t,G as c,j as r,o as p,H as m}from"./D4tOOpea.js";const d=n({__name:"TableCell",props:{class:{}},setup(s){const e=s,a=r(()=>m("p-4 align-middle",e.class));return(l,i)=>(p(),o("td",{class:c(a.value)},[t(l.$slots,"default")],2))}}),_=Object.assign(d,{__name:"TableCell"});export{_ as default};

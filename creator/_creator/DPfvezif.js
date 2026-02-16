@@ -1,0 +1,1 @@
+import{b as o,a0 as a,W as r,R as s,k as c,B as d,t as m}from"./Ca6rub8f.js";const l=o({__name:"index",setup(i){const e=a(),t=m(()=>String(e.params.id||""));return(p,u)=>{const n=c("EventWizardForm");return d(),r(n,{mode:"edit","event-id":s(t)},null,8,["event-id"])}}});export{l as default};

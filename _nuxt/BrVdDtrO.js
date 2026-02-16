@@ -1,1 +1,0 @@
-import{d as t,c,s as n,G as l,j as r,o as d,H as m}from"./D4tOOpea.js";const p=t({__name:"TableRow",props:{class:{}},setup(s){const e=s,a=r(()=>m("border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted",e.class));return(o,u)=>(d(),c("tr",{class:l(a.value)},[n(o.$slots,"default")],2))}}),i=Object.assign(p,{__name:"TableRow"});export{i as default};
