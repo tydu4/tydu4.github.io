@@ -1,0 +1,1 @@
+import{d as t,c as r,M as c,E as n,j as l,o as p,R as d}from"./vvrMSRdc.js";const m=t({__name:"CardFooter",props:{class:{}},setup(s){const e=s,a=l(()=>d("flex items-center p-6 pt-0",e.class));return(o,i)=>(p(),r("div",{class:n(a.value)},[c(o.$slots,"default")],2))}}),_=Object.assign(m,{__name:"CardFooter"});export{_ as default};
