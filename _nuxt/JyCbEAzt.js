@@ -1,1 +1,0 @@
-import{d as n,c as o,s as c,G as l,j as r,o as i,H as m}from"./BvmsJYLR.js";const p=n({__name:"CardTitle",props:{class:{}},setup(s){const e=s,t=r(()=>m("text-2xl font-semibold leading-none tracking-tight",e.class));return(a,_)=>(i(),o("h3",{class:l(t.value)},[c(a.$slots,"default")],2))}}),u=Object.assign(p,{__name:"CardTitle"});export{u as default};

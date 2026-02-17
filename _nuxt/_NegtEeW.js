@@ -1,0 +1,1 @@
+import{d as t,c,v as n,H as l,j as r,o as d,I as m}from"./DUSKV69B.js";const p=t({__name:"TableRow",props:{class:{}},setup(e){const s=e,a=r(()=>m("border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted",s.class));return(o,u)=>(d(),c("tr",{class:l(a.value)},[n(o.$slots,"default")],2))}}),i=Object.assign(p,{__name:"TableRow"});export{i as default};

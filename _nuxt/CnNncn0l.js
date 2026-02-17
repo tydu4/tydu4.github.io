@@ -1,1 +1,0 @@
-import{_ as e}from"./CJ_F8UO4.js";import{d as n,k as p,u as a,o as r,j as t,v as m}from"./BvmsJYLR.js";const l=n({__name:"messages",setup(c){const o=m(),s=t(()=>o.public.enableAppPromotions!==!1);return(u,i)=>(r(),p(e,{"show-app-promo":a(s)},null,8,["show-app-promo"]))}});export{l as default};

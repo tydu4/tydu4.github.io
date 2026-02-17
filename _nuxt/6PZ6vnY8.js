@@ -1,1 +1,0 @@
-import{d as a,y as o,c as n,q as s,o as r}from"./BvmsJYLR.js";const c={class:"page-wrapper"},d=a({__name:"index",async setup(_){let e,t;return[e,t]=o(()=>s("/community/leaderboard",{})),await e,t(),(p,i)=>(r(),n("div",c))}});export{d as default};
