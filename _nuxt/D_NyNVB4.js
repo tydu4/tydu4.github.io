@@ -1,0 +1,1 @@
+import{d as t,j as c,c as l,M as n,q as r,o as d,U as p}from"./DIpL79ME.js";const m=t({__name:"TableBody",props:{class:{}},setup(s){const e=s,a=c(()=>p("[&_tr:last-child]:border-0",e.class));return(o,_)=>(d(),l("tbody",{class:r(a.value)},[n(o.$slots,"default")],2))}}),b=Object.assign(m,{__name:"TableBody"});export{b as default};

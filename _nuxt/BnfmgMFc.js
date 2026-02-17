@@ -1,0 +1,1 @@
+import{d as r,j as c,c as t,M as n,q as d,o as l,U as p}from"./DIpL79ME.js";const u=r({__name:"Card",props:{class:{}},setup(s){const a=s,e=c(()=>p("rounded-lg border text-card-foreground shadow-soft card-surface",a.class));return(o,m)=>(l(),t("div",{class:d(e.value)},[n(o.$slots,"default")],2))}}),_=Object.assign(u,{__name:"Card"});export{_ as default};

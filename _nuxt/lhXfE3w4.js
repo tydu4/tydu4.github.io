@@ -1,0 +1,1 @@
+import{d as n,j as o,c as t,M as c,q as r,o as p,U as m}from"./DIpL79ME.js";const d=n({__name:"TableCell",props:{class:{}},setup(e){const s=e,a=o(()=>m("p-4 align-middle",s.class));return(l,i)=>(p(),t("td",{class:r(a.value)},[c(l.$slots,"default")],2))}}),_=Object.assign(d,{__name:"TableCell"});export{_ as default};

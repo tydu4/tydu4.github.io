@@ -1,0 +1,1 @@
+import{d as o,j as l,c,a as n,M as r,q as m,o as p,U as u}from"./DIpL79ME.js";const d={class:"relative w-full overflow-auto"},i=o({__name:"Table",props:{class:{}},setup(s){const e=s,a=l(()=>u("w-full caption-bottom text-sm",e.class));return(t,_)=>(p(),c("div",d,[n("table",{class:m(a.value)},[r(t.$slots,"default")],2)]))}}),b=Object.assign(i,{__name:"Table"});export{b as default};

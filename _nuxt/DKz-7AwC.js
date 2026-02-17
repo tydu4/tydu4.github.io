@@ -1,1 +1,0 @@
-import{d as o,O as s,P as r,G as n}from"./DXztqjCQ.js";const u=o({__name:"index",async setup(_){let e,t;const a=s();return[e,t]=r(()=>n({path:"/discovery/catalog",query:a.query},{replace:!0})),await e,t(),()=>{}}});export{u as default};

@@ -1,0 +1,1 @@
+import{d as a,P as o,c as s,s as n,o as r}from"./DIpL79ME.js";const c={class:"page-wrapper"},d=a({__name:"index",async setup(_){let e,t;return[e,t]=o(()=>n("/community/leaderboard",{})),await e,t(),(p,i)=>(r(),s("div",c))}});export{d as default};

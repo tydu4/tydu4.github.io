@@ -1,0 +1,1 @@
+import{d as o,j as n,c,M as r,q as l,o as p,U as m}from"./DIpL79ME.js";const _=o({__name:"CardDescription",props:{class:{}},setup(s){const e=s,t=n(()=>m("text-sm text-muted-foreground",e.class));return(a,d)=>(p(),c("p",{class:l(t.value)},[r(a.$slots,"default")],2))}}),i=Object.assign(_,{__name:"CardDescription"});export{i as default};

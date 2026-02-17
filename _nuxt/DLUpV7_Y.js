@@ -1,0 +1,1 @@
+import{d as t,j as c,c as n,M as l,q as r,o as d,U as m}from"./DIpL79ME.js";const p=t({__name:"TableRow",props:{class:{}},setup(e){const s=e,a=c(()=>m("border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted",s.class));return(o,u)=>(d(),n("tr",{class:r(a.value)},[l(o.$slots,"default")],2))}}),i=Object.assign(p,{__name:"TableRow"});export{i as default};

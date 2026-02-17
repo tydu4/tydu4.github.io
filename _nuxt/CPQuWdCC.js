@@ -1,0 +1,1 @@
+import{d as s,O as o,P as r,s as n}from"./DIpL79ME.js";const u=s({__name:"index",async setup(_){let e,t;const a=o();return[e,t]=r(()=>n({path:"/discovery/catalog",query:a.query},{replace:!0})),await e,t(),()=>{}}});export{u as default};

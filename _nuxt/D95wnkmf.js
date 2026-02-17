@@ -1,0 +1,1 @@
+import o from"./-I9k5p_o.js";import{d as t,k as r,o as e}from"./DIpL79ME.js";import"./NaR5TDkT.js";import"./Ck3zTzEc.js";import"./BTA2ybKl.js";import"./5jP3ovOk.js";import"./DlAUqK2U.js";const l=t({__name:"bots",setup(p){return(m,a)=>(e(),r(o))}});export{l as default};

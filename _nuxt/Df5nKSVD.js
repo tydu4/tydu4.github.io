@@ -1,0 +1,1 @@
+import{d as n,j as o,c,M as l,q as r,o as i,U as m}from"./DIpL79ME.js";const p=n({__name:"CardTitle",props:{class:{}},setup(s){const e=s,t=o(()=>m("text-2xl font-semibold leading-none tracking-tight",e.class));return(a,_)=>(i(),c("h3",{class:r(t.value)},[l(a.$slots,"default")],2))}}),u=Object.assign(p,{__name:"CardTitle"});export{u as default};

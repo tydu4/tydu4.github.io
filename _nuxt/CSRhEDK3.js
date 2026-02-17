@@ -1,0 +1,1 @@
+import{d as t,j as o,c,M as r,q as l,o as p,U as _}from"./DIpL79ME.js";const m=t({__name:"CardContent",props:{class:{}},setup(s){const e=s,a=o(()=>_("p-6 pt-0",e.class));return(n,d)=>(p(),c("div",{class:l(a.value)},[r(n.$slots,"default")],2))}}),i=Object.assign(m,{__name:"CardContent"});export{i as default};

@@ -1,0 +1,1 @@
+import{d as t,j as r,c,M as n,q as l,o as d,U as p}from"./DIpL79ME.js";const m=t({__name:"TableHeader",props:{class:{}},setup(e){const s=e,a=r(()=>p("[&_tr]:border-b",s.class));return(o,_)=>(d(),c("thead",{class:l(a.value)},[n(o.$slots,"default")],2))}}),b=Object.assign(m,{__name:"TableHeader"});export{b as default};
