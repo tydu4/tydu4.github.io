@@ -1,1 +1,0 @@
-import{d as c,c as n,M as t,E as l,j as r,o as p,R as d}from"./vvrMSRdc.js";const _=c({__name:"CardHeader",props:{class:{}},setup(e){const s=e,a=r(()=>d("flex flex-col space-y-1.5 p-6",s.class));return(o,m)=>(p(),n("div",{class:l(a.value)},[t(o.$slots,"default")],2))}}),f=Object.assign(_,{__name:"CardHeader"});export{f as default};

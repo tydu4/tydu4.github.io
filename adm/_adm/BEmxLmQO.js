@@ -1,1 +1,0 @@
-import{f as a,G as t,S as s,F as c}from"./DIZEteV9.js";const r=["src","alt"],l=a({__name:"AvatarImage",props:{src:{},alt:{},class:{}},setup(e){return(n,o)=>e.src?(c(),t("img",{key:0,src:e.src,alt:e.alt,class:"aspect-square h-full w-full object-cover"},null,8,r)):s("",!0)}}),u=Object.assign(l,{__name:"AvatarImage"});export{u as default};

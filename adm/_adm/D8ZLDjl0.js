@@ -1,1 +1,0 @@
-import{a as n}from"./CkYB-R1u.js";import{f as o,G as r,I as c,R as l,y as p,F as m}from"./DIZEteV9.js";const d=o({__name:"CardContent",props:{class:{}},setup(s){const a=s,e=p(()=>n("p-6 pt-0",a.class));return(t,C)=>(m(),r("div",{class:l(e.value)},[c(t.$slots,"default")],2))}}),u=Object.assign(d,{__name:"CardContent"});export{u as default};

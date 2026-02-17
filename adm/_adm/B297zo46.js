@@ -1,1 +1,0 @@
-import{a as t}from"./CkYB-R1u.js";import{f as r,G as n,I as c,R as l,y as p,F as m}from"./DIZEteV9.js";const d=r({__name:"CardFooter",props:{class:{}},setup(s){const e=s,a=p(()=>t("flex items-center p-6 pt-0",e.class));return(o,f)=>(m(),n("div",{class:l(a.value)},[c(o.$slots,"default")],2))}}),_=Object.assign(d,{__name:"CardFooter"});export{_ as default};

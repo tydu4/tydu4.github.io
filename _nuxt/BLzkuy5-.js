@@ -1,1 +1,0 @@
-import{d as a,P as o,c as n,G as s,o as r}from"./vvrMSRdc.js";const c={class:"page-wrapper"},d=a({__name:"index",async setup(_){let e,t;return[e,t]=o(()=>s("/community/leaderboard",{})),await e,t(),(p,i)=>(r(),n("div",c))}});export{d as default};

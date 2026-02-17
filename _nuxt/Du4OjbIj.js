@@ -1,1 +1,0 @@
-import{d as t,c as r,M as c,E as n,j as l,o as d,R as p}from"./vvrMSRdc.js";const m=t({__name:"TableHeader",props:{class:{}},setup(e){const s=e,a=l(()=>p("[&_tr]:border-b",s.class));return(o,_)=>(d(),r("thead",{class:n(a.value)},[c(o.$slots,"default")],2))}}),b=Object.assign(m,{__name:"TableHeader"});export{b as default};

@@ -1,1 +1,0 @@
-import{a as o}from"./CkYB-R1u.js";import{f as t,G as n,I as c,R as r,y as m,F as p}from"./DIZEteV9.js";const d=t({__name:"TableCell",props:{class:{}},setup(e){const s=e,a=m(()=>o("p-4 align-middle",s.class));return(l,i)=>(p(),n("td",{class:r(a.value)},[c(l.$slots,"default")],2))}}),_=Object.assign(d,{__name:"TableCell"});export{_ as default};

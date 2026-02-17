@@ -1,0 +1,1 @@
+import{d as o,o as a,c as s,E as n}from"./DXztqjCQ.js";import{_ as r}from"./DlAUqK2U.js";const t=o({__name:"SkeletonLoader",props:{roundedClass:{default:"rounded-2xl"}},setup(e){return(d,l)=>(a(),s("div",{class:n(["skeleton-loader",e.roundedClass]),"aria-hidden":"true"},null,2))}}),m=Object.assign(r(t,[["__scopeId","data-v-63bf1165"]]),{__name:"SkeletonLoader"});export{m as S};
