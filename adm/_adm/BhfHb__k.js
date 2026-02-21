@@ -1,1 +1,0 @@
-import{a as r}from"./CkYB-R1u.js";import{f as t,G as n,I as c,R as l,y as m,F as p}from"./DS7VCCSK.js";const d=t({__name:"TableHeader",props:{class:{}},setup(e){const a=e,s=m(()=>r("[&_tr]:border-b",a.class));return(o,_)=>(p(),n("thead",{class:l(s.value)},[c(o.$slots,"default")],2))}}),b=Object.assign(d,{__name:"TableHeader"});export{b as default};
